@@ -1,0 +1,17 @@
+
+#mxgit-marker-start
+./.svn
+./modeler-merge-marker
+./.mendix-cache
+./*.mpr.lock
+./*.mpr.bak
+./*.mpr.left*
+./*.mpr.right*
+./.settings
+./deployment
+./releases
+proxies
+*.launch
+.classpath
+.project
+#mxgit-marker-end
